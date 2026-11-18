@@ -32,4 +32,4 @@ Resumes and cover letters are written in [Typst](https://typst.app) and built to
 
 ## License
 
-MIT. See [LICENSE](LICENSE). The resume and cover letter checklists are paraphrased from MIT Career Advising & Professional Development and link to the originals.
+MIT. See [LICENSE](LICENSE).
