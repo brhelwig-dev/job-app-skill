@@ -6,5 +6,11 @@
     "name": "Brandon Helwig"
   },
   "repository": "https://github.com/brhelwig-dev/job-app-skill",
-  "keywords": ["resume", "cover-letter", "job-search", "typst"]
+  "keywords": [
+    "resume",
+    "cover-letter",
+    "job-search",
+    "typst"
+  ],
+  "license": "MIT"
 }

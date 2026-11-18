@@ -29,3 +29,5 @@ Resumes and cover letters are written in [Typst](https://typst.app) and built to
 - `skills/resume-tuning/SKILL.md` and `skills/cover-letter/SKILL.md`: the skills.
 - `starter/`: the files copied into a new job-search folder: the shared layout (`templates/layout.typ`), the build script, an example master resume and a `.gitignore`.
 - `.claude-plugin/`: the plugin and marketplace manifests.
+
+
