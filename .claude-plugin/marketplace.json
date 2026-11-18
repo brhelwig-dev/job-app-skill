@@ -1,0 +1,13 @@
+{
+  "name": "job-app-skill",
+  "owner": {
+    "name": "Brandon Helwig"
+  },
+  "plugins": [
+    {
+      "name": "job-application",
+      "source": "./",
+      "description": "Tailor resumes to job postings and write cover letters with Claude, using the MIT CAPD checklists and a blunt hiring-manager review."
+    }
+  ]
+}
